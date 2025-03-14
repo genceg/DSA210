@@ -1,4 +1,4 @@
-# # The Impact of HDI Factors on Happiness
+# The Impact of the development of a country on Happiness
 
 ## **Project Overview**
 This project explores the relationship between the **development of a country** and **happiness scores** across countries. The HDI consists of three key components:  
