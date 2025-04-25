@@ -9,12 +9,13 @@ This project explores the relationship between the **development of a country** 
 By analyzing these factors, we aim to determine whether countries with higher scores in these categories tend to have higher happiness levels.
 
 ## 📝 Hypotheses
-1. **H₁—HDI:** Countries with higher **Human Development Index** scores report higher average happiness.  
-2. **H₂—Comfort Index:** Countries with climates closer to an ideal 22 °C (“comfort index”) report higher happiness than those with more extreme average temperatures.  
-3. **H₃—Sports Success:** Countries with higher **12-month rolling average FIFA ranking points** report higher happiness due to greater national pride.  
-4. **H₄—Physical Activity:** Countries with higher **physical activity participation rates** report higher happiness, reflecting better health and social well-being.  
-5. **H₅—Digital Growth:** Countries with faster **year-over-year Internet penetration growth** report higher happiness through improved connectivity and information access.  
-6. **H₆—Income Inequality:** Countries in the **low-inequality** category (Gini < 30) report higher happiness than medium (30–40) and high (> 40) inequality countries.
+1. **Null Hypothesis (H₀):** Development of a country do not significantly influence happiness scores.  
+2. **H₁—HDI:** Countries with higher **Human Development Index** scores report higher average happiness.
+3. **H₂—Comfort Index:** Countries with climates closer to an ideal 22 °C (“comfort index”) report higher happiness than those with more extreme average temperatures.  
+4. **H₃—Sports Success:** Countries with higher **average FIFA ranking points** report higher happiness due to greater national pride.  
+5. **H₄—Physical Activity:** Countries with higher **physical activity participation rates** report higher happiness, reflecting better health and social well-being.  
+6. **H₅—Digital Growth:** Countries with faster **year-over-year Internet penetration growth** report higher happiness through improved connectivity and information access.  
+7. **H₆—Income Inequality:** Countries in the **low-inequality** category (Gini < 30) report higher happiness than medium (30–40) and high (> 40) inequality countries.
 
 ## Methods
 1. **Data Processing**  
