@@ -41,7 +41,6 @@ By analyzing these factors, we aim to determine whether countries with higher sc
 - **Scatter Plots** → Plot each continuous predictor (HDI, ComfortIndex, RollingFIFA, ActivePct, InternetGrowth) against happiness scores, including fitted trend lines.  
 - **Correlation Heatmap** → Display a heatmap of pairwise correlation coefficients among all predictors and happiness to identify multicollinearity and strongest associations.  
 - **World Heatmaps** → Map geographic variations in both key predictors (e.g., HDI, ComfortIndex) and happiness scores to highlight regional patterns.  
-- **PCA & Clustering Plots** (optional) → Visualize principal component biplots and cluster assignments to uncover latent groupings of countries by their enriched feature profiles.  
 
 5. **Conclusion**
   
