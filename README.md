@@ -8,7 +8,7 @@ This project explores the relationship between the **development of a country** 
 
 By analyzing these factors, we aim to determine whether countries with higher scores in these categories tend to have higher happiness levels.
 
-## 📝 Hypotheses
+##  Hypotheses
 1. **Null Hypothesis (H₀):** Development of a country do not significantly influence happiness scores.  
 2. **H₁—HDI:** Countries with higher **Human Development Index** scores report higher average happiness.
 3. **H₂—Comfort Index:** Countries with climates closer to an ideal 22 °C (“comfort index”) report higher happiness than those with more extreme average temperatures.  
@@ -44,4 +44,4 @@ By analyzing these factors, we aim to determine whether countries with higher sc
 - **World Heatmaps** → Map geographic variations in both key predictors (e.g., HDI, ComfortIndex) and happiness scores to highlight regional patterns.  
 
 5. **Conclusion**
-  
+According to the p-tests, all of the p-scores for each hyptohesis is less than 0.05, which means that for each case (HDI, Comfort Index, FIFA Rankings, Physical Actvities, Internet Usage, Income Inequality), the null hypothesis (H₀) is rejected. In short, H₁,H₂,H₃,H₄,H₅, and H₆ are valid.
